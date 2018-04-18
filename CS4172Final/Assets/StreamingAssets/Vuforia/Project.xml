@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="data_SP2017_Liu_66v_fig003_Quince2" size="8.500000 11.000000" />
+    <ImageTarget name="data_SP2017_Basile_7v_fig001_NovaReperta" size="8.500000 11.000000" />
+    <ImageTarget name="data_FA2015_Kok_158r_fig0092" size="8.500000 11.000000" />
+    <ImageTarget name="data_FA2015_Carr_66v_fig001" size="8.500000 11.000000" />
+    <ImageTarget name="data_FA2015_BowenLou_10v_fig0012" size="8.500000 11.000000" />
+    <ImageTarget name="data_FA2014_Mellon_48r_fig012_ExcellentMustard" size="8.500000 11.000000" />
+    <ImageTarget name="data_FA2014_CarlsonKatz_118v_fig020_CastingInABoxMold" size="8.500000 11.000000" />
+  </Tracking>
+</QCARConfig>
