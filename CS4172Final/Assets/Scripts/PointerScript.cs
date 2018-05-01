@@ -51,6 +51,7 @@ public class PointerScript : MonoBehaviour {
 			if (other.tag.Contains ("beaker"))
 			{
 				//Show 2D UI and allow the user to create a dye/mordant combo
+				GameObject.Find("DyeMenu").SetActive (true);
 
 //				Set current object if exists into beaker
 				if (helper.getAttachedObject() != null) {

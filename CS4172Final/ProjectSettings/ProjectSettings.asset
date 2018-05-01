@@ -178,7 +178,7 @@ PlayerSettings:
     serializedVersion: 2
     m_Bits: 238
   iPhoneSdkVersion: 988
-  iOSTargetOSVersionString: 7.0
+  iOSTargetOSVersionString: 9.0
   tvOSSdkVersion: 0
   tvOSRequireExtendedGameController: 0
   tvOSTargetOSVersionString: 9.0
@@ -245,7 +245,7 @@ PlayerSettings:
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: 
   AndroidKeyaliasName: 
-  AndroidTVCompatibility: 1
+  AndroidTVCompatibility: 0
   AndroidIsGame: 1
   AndroidEnableTango: 0
   androidEnableBanner: 1
@@ -262,6 +262,8 @@ PlayerSettings:
   m_BuildTargetVRSettings: []
   m_BuildTargetEnableVuforiaSettings:
   - m_BuildTarget: Standalone
+    m_Enabled: 1
+  - m_BuildTarget: iOS
     m_Enabled: 1
   openGLRequireES31: 0
   openGLRequireES31AEP: 0
@@ -294,7 +296,7 @@ PlayerSettings:
   enableInternalProfiler: 0
   logObjCUncaughtExceptions: 1
   enableCrashReportAPI: 0
-  cameraUsageDescription: 
+  cameraUsageDescription: Use Cam
   locationUsageDescription: 
   microphoneUsageDescription: 
   switchNetLibKey: 

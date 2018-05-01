@@ -11,6 +11,8 @@ TagManager:
   - lab_heat
   - lab_cool
   - lab_faucet
+  - acidtag
+  - cylinder
   layers:
   - Default
   - TransparentFX
